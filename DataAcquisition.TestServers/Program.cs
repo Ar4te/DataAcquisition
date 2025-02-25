@@ -11,6 +11,7 @@ public class Program
         AddTestTags(simulator);
         simulator.Start();
         Console.WriteLine("CIP 服务端已启动...");
+        Console.ReadLine();
     }
 
     public static void AddTestTags(CipSimulator simulator)
