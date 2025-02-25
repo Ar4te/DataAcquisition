@@ -1,1 +1,1 @@
-Common Industrial Protocol Server Simulator
+Simple Common Industrial Protocol (CIP) Server Simulator
