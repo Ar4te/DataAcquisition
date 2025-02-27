@@ -1,7 +1,7 @@
 ﻿using System.Buffers;
 using System.Text;
 
-namespace DataAcquisition.TestServers.CIP;
+namespace DataAcquisition.Servers.CIP;
 
 public static class CipExtensions
 {

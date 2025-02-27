@@ -1,4 +1,4 @@
-﻿namespace DataAcquisition.TestServers.CIP;
+﻿namespace DataAcquisition.Servers.CIP;
 
 /// <summary>
 /// 设备配置

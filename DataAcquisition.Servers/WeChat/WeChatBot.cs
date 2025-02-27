@@ -2,7 +2,7 @@
 using System.Text.Json;
 using System.Threading.Channels;
 
-namespace DataAcquisition.TestServers.WeChat;
+namespace DataAcquisition.Servers.WeChat;
 
 public class MyClass
 {

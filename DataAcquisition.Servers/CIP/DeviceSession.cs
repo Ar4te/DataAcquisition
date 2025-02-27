@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace DataAcquisition.TestServers.CIP;
+namespace DataAcquisition.Servers.CIP;
 
 /// <summary>
 /// 会话管理

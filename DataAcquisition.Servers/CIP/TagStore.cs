@@ -1,6 +1,6 @@
 ﻿using System.Collections.Concurrent;
 
-namespace DataAcquisition.TestServers.CIP;
+namespace DataAcquisition.Servers.CIP;
 
 public class TagStore
 {

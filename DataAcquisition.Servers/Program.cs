@@ -1,6 +1,6 @@
-﻿using DataAcquisition.TestServers.CIP;
+﻿using DataAcquisition.Servers.CIP;
 
-namespace DataAcquisition.TestServers;
+namespace DataAcquisition.Servers;
 
 public class Program
 {

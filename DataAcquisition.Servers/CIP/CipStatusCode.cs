@@ -1,4 +1,4 @@
-﻿namespace DataAcquisition.TestServers.CIP;
+﻿namespace DataAcquisition.Servers.CIP;
 
 public class CipStatusCode
 {

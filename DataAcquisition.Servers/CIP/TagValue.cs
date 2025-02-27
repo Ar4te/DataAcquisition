@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace DataAcquisition.TestServers.CIP;
+namespace DataAcquisition.Servers.CIP;
 
 /// <summary>
 /// 标签存储

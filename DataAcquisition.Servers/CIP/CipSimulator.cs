@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace DataAcquisition.TestServers.CIP;
+namespace DataAcquisition.Servers.CIP;
 
 public partial class CipSimulator : IDisposable
 {
