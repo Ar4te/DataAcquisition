@@ -442,7 +442,7 @@ public partial class CipSimulator : IDisposable
             }
         }
     }
-    #endregion
+    #endregion 
 
     #region 设备管理接口
     public void AddTag(string name, DataType type, object initialValue)
